@@ -6,6 +6,7 @@ logs/
 raw/
 report/
 data/
+tmp/
 
 .ipynb_checkpoints
 .DS_Store
